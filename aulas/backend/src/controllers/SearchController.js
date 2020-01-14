@@ -18,7 +18,7 @@ module.exports = {
           },
           $maxDistance: 10000,
         },
-      }
+      },
     });
 
     console.log(devs);
