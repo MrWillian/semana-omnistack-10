@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
 
-function Main() {
+export default function Main() {
   return <View />
 }
