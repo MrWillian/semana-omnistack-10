@@ -20,9 +20,7 @@ module.exports = {
         },
       },
     });
-
-    console.log(devs);
-
+    
     return response.json({ devs });
   }
 }
